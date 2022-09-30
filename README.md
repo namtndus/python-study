@@ -1,1 +1,1 @@
-# python-study
+# 파이썬의 정리
